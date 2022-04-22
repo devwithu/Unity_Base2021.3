@@ -6,10 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AppleAuthSample/LandscapeSampleScene.unity
+    path: Assets/Login/FireBaseGameCenter/FirebaseGameCenterScene.unity
+    guid: f4c202b4e3b6c4e9a8d592cff8f293a9
+  - enabled: 1
+    path: Assets/Login/Apple/AppleAuthSample/LandscapeSampleScene.unity
     guid: 68da1cf4dda854c5887ef4c16bad630f
   - enabled: 1
-    path: Assets/SignInSample/MainScene.unity
+    path: Assets/Login/Google/SignInSample/MainScene.unity
     guid: 4dbc020c6ee6d47e2a668e83cc5ee276
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 983bcb80ae3a7439092bdac72fb8b838, type: 2}
