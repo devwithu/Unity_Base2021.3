@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "541877322599",
+    "project_id": "princess-fantasia-94082279",
+    "storage_bucket": "princess-fantasia-94082279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541877322599:ios:d97e70452d62c50b1125c2",
+        "android_client_info": {
+          "package_name": "kr.jde.pf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541877322599-1i9a9uc265a7b6u6ia79ghq634irsdhl.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSdvuNavAumO80vIgm-LMrgPRlAMWeBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
